@@ -24,7 +24,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='repla
 
 # ==================== CONFIG ====================
 BOT_TOKEN = "8978817412:AAFmdc-ckrm45uXyjaalZPUKdQ6kw_b5RRs"
-OWNER_ID = 8650663283
+OWNER_ID = 8189708860
 CHANNEL_LINK = "https://t.me/+PrJMSB4bG5o2OTk1"
 CHANNEL_ID = -1004356300423
 MAX_RETRIES = 3
