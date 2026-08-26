@@ -23,10 +23,10 @@ logger = logging.getLogger(__name__)
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "8978817412:AAFmdc-ckrm45uXyjaalZPUKdQ6kw_b5RRs"
+BOT_TOKEN = "8756139201:AAEYlUyNPvNQaNoK0YyTD0HYMXe1WZAf-FE"
 OWNER_ID = 8189708860
 CHANNEL_LINK = "https://t.me/+PrJMSB4bG5o2OTk1"
-CHANNEL_ID = -1004356300423
+CHANNEL_ID = 
 MAX_RETRIES = 3
 MAX_RETRIES_ADMIN = 8
 POST_AUTH_RETRIES = 3
