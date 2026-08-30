@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "8921106082:AAGg6cfpj_Yo_k4C627ob6vSij9fU6cjyDg"
+BOT_TOKEN = "8756139201:AAEYlUyNPvNQaNoK0YyTD0HYMXe1WZAf-FE"
 OWNER_ID = 8189708860
 CHANNEL_LINK = "https://t.me/+2YhAjjTUB8g3YTFk"
 CHANNEL_ID = -1003808606039
